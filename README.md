@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhd-ashmal38&label=Profile%20views&color=0e75b6&style=flat" alt="mhd-ashmal38" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **react, javascript**
+- 💬 Ask me about **react, Angular**
 
 - 📫 How to reach me **mhdashmal38@gmail.com**
 
